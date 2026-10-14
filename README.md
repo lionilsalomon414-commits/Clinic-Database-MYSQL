@@ -134,7 +134,7 @@ JOIN administrator a ON a.id_admin = df.id_admin;
 
 ## 👤 Author
 
-**[Your Name]** — [Student ID] — Information Systems, Universitas Terbuka
+**Lioniel Salomon Siregar** — Information Systems, Universitas Terbuka
 
 ## 📄 License
 
