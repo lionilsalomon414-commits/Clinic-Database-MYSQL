@@ -134,7 +134,7 @@ JOIN administrator a ON a.id_admin = df.id_admin;
 
 ## 👤 Penulis
 
-**[Nama Anda]** — [NIM] — Sistem Informasi, Universitas Terbuka
+**Lioniel Salomon Siregar** — Sistem Informasi, Universitas Terbuka
 
 ## 📄 Lisensi
 
